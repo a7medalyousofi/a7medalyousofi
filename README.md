@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Yousofi</h1>
 
-<h3 align="center">A passionate frontend developer from Yemen2</h3>
+<h3 align="center">A passionate frontend developer from Yemen</h3>
 
 - 📝 I’m currently learning **ReactJS**
 
