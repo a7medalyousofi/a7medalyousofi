@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Yousofi</h1>
 <h4 align="center">A passionate web developer & designer, from Yemen  based in India, keep cool, stay in touch.</h3>
 
-- 📝 I’m currently learning **ReactJS**
+- 📝 I’m currently learning **React JS** & **Styled Components**
 
 <hr/>
 <h3 align="left">Connect with me:</h3>
