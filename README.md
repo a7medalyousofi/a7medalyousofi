@@ -2,7 +2,7 @@
 <h4 align="center">A passionate front-end web developer & designer, from Yemen  based in India.<br/> keep cool, stay in touch.</h3>
 
   📝 I’m currently learning **React JS**, **NextJS** & **Styled Components**
-
+  👨‍🎓 Studied Computer Science Engineering at Kakatiya University - India
 <hr/>
 
 :mailbox: Reach me out!
