@@ -3,7 +3,7 @@
 
   📝 I’m currently learning **React JS**, **NextJS** & **Styled Components**
   
-  👨‍🎓 Studied **Computer Science Engineering** at **Kakatiya University - India**
+  👨‍🎓 Studied **Computer Science Engineering** at **Kakatiya University - Warangal - India**
 <hr/>
 
 :mailbox: Reach me out!
