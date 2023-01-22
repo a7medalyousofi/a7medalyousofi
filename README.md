@@ -2,7 +2,7 @@
 <h4 align="center">A passionate front-end web developer & designer, from Yemen  based in India.<br/> keep cool, stay in touch.</h3>
 <p align="center"><strong><a href="https://www.alyousofi.com" rel="nofollow">alyousofi.com</a></strong></p>
 
-  📝 I’m currently learning **React JS**, **NextJS** & **Styled Components**
+  📝 I’m currently learning **ReactJS** & **NextJS**
   
   👨‍🎓 Studied **Computer Science Engineering**
   
