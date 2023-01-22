@@ -6,6 +6,8 @@
   👨‍🎓 Studied **Computer Science Engineering** at **Kakatiya University - Warangal - India**
 <hr/>
 
+<p>See my portfolio at <strong><a href="https://www.alyousofi.com" rel="nofollow">alyousofi.com</a></strong></p>
+
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@a7medalyousofi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/a7medalyousofi)](https://twitter.com/a7medalyousofi) [![Linkedin Badge](https://img.shields.io/badge/-a7medalyousofi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7medalyousofi/) [![Facebook Badge](https://img.shields.io/badge/-@a7medalyousofi-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/a7medalyousofi)](https://facebook.com/a7medalyousofi)  [![Instagram Badge](https://img.shields.io/badge/-@a7medalyousofi-CF2872?style=flat&labelColor=CF2872&logo=instagram&logoColor=white)](https://instagram.com/a7medalyousofi) [![Mail Badge](https://img.shields.io/badge/-Ahmed_Alyousofi-D20000?style=flat&labelColor=D20000&logo=gmail&logoColor=white)](mailto:a7medalyousofi@gmail.com)
