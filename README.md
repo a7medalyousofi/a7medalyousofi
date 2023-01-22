@@ -4,9 +4,11 @@
   📝 I’m currently learning **React JS**, **NextJS** & **Styled Components**
   
   👨‍🎓 Studied **Computer Science Engineering** at **Kakatiya University - Warangal - India**
+  
+  <p>See my portfolio at <strong><a href="https://www.alyousofi.com" rel="nofollow">alyousofi.com</a></strong></p>
 <hr/>
 
-<p>See my portfolio at <strong><a href="https://www.alyousofi.com" rel="nofollow">alyousofi.com</a></strong></p>
+
 
 :mailbox: Reach me out!
 
