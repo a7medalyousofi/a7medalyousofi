@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Ahmed Al-Yousofi</h1>
 <h4 align="center">A passionate front-end web developer & designer, from Yemen  based in India.<br/> keep cool, stay in touch.</h3>
-<p align="center"><strong><a href="https://www.alyousofi.com" rel="nofollow">www.alyousofi.com</a></strong></p>
+
 
   📝 I’m currently learning **ReactJS** & **NextJS**
   
