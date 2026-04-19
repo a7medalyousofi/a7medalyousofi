@@ -16,7 +16,15 @@
 
 <h3 align="left">Technologies used :</h3>
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=1E1F2B&logo=HTML5&logoColor=E34F26)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=1E1F2B&logo=CSS3&logoColor=1572B6)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-EFD81D?style=for-the-badge&labelColor=1E1F2B&logo=javascript&logoColor=EFD81D)](#) [![SASS Badge](https://img.shields.io/badge/-SASS-hotpink?style=for-the-badge&labelColor=1E1F2B&logo=SASS&logoColor=hotpink)](#) [![BOOTSTRAP Badge](https://img.shields.io/badge/-BOOTSTRAP-7952B3?style=for-the-badge&labelColor=1E1F2B&logo=BOOTSTRAP&logoColor=7952B3)](#) [![TAILWINDCSS Badge](https://img.shields.io/badge/-TAILWIND_CSS-38BDF8?style=for-the-badge&labelColor=1E1F2B&logo=TAILWINDCSS&logoColor=38BDF8)](#) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=1E1F2B&logo=react&logoColor=61DAFB)](#) 
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=1E1F2B&logo=HTML5&logoColor=E34F26)](#) 
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=1E1F2B&logo=CSS3&logoColor=1572B6)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-EFD81D?style=for-the-badge&labelColor=1E1F2B&logo=javascript&logoColor=EFD81D)](#) 
+[![SASS Badge](https://img.shields.io/badge/-SASS-hotpink?style=for-the-badge&labelColor=1E1F2B&logo=SASS&logoColor=hotpink)](#) 
+[![BOOTSTRAP Badge](https://img.shields.io/badge/-BOOTSTRAP-7952B3?style=for-the-badge&labelColor=1E1F2B&logo=BOOTSTRAP&logoColor=7952B3)](#) 
+[![TAILWINDCSS Badge](https://img.shields.io/badge/-TAILWIND_CSS-38BDF8?style=for-the-badge&labelColor=1E1F2B&logo=TAILWINDCSS&logoColor=38BDF8)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=1E1F2B&logo=react&logoColor=61DAFB)](#) 
+[![ERPNext Badge](https://img.shields.io/badge/-ERPNext-0089FF?style=for-the-badge&labelColor=1E1F2B&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=0089FF)](#) 
+[![Frappe Badge](https://img.shields.io/badge/-Frappe-5E64FF?style=for-the-badge&labelColor=1E1F2B&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=5E64FF)](#)
 
 <hr/>
 
