@@ -23,8 +23,8 @@
 [![BOOTSTRAP Badge](https://img.shields.io/badge/-BOOTSTRAP-7952B3?style=for-the-badge&labelColor=1E1F2B&logo=BOOTSTRAP&logoColor=7952B3)](#) 
 [![TAILWINDCSS Badge](https://img.shields.io/badge/-TAILWIND_CSS-38BDF8?style=for-the-badge&labelColor=1E1F2B&logo=TAILWINDCSS&logoColor=38BDF8)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=1E1F2B&logo=react&logoColor=61DAFB)](#) 
-[![ERPNext Badge](https://img.shields.io/badge/-ERPNext-0089FF?style=for-the-badge&labelColor=1E1F2B&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=0089FF)](#) 
-[![Frappe Badge](https://img.shields.io/badge/-Frappe-5E64FF?style=for-the-badge&labelColor=1E1F2B&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=5E64FF)](#)
+[![ERPNext Badge](https://img.shields.io/badge/-ERPNext-0089FF?style=for-the-badge&labelColor=1E1F2B&logo=https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/erpnext-logo.svg)](#) 
+[![Frappe Badge](https://img.shields.io/badge/-Frappe-5E64FF?style=for-the-badge&labelColor=1E1F2B&logo=https://raw.githubusercontent.com/frappe/frappe/develop/frappe/public/images/frappe-framework-logo.svg)](#)
 
 <hr/>
 
