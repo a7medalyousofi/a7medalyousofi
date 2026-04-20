@@ -23,7 +23,7 @@
 [![BOOTSTRAP Badge](https://img.shields.io/badge/-BOOTSTRAP-7952B3?style=for-the-badge&labelColor=1E1F2B&logo=BOOTSTRAP&logoColor=7952B3)](#) 
 [![TAILWINDCSS Badge](https://img.shields.io/badge/-TAILWIND_CSS-38BDF8?style=for-the-badge&labelColor=1E1F2B&logo=TAILWINDCSS&logoColor=38BDF8)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=1E1F2B&logo=react&logoColor=61DAFB)](#) 
-[![Frappe Badge]([https://img.shields.io/badge/-Frappe-5E64FF?style=for-the-badge&labelColor=1E1F2B&logo=https://raw.githubusercontent.com/frappe/frappe/develop/frappe/public/images/frappe-framework-logo.svg](https://camo.githubusercontent.com/aa1b6ecba6647892584ac793328fb2b2955839508d3620062ab17564ecfd48d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4672617070652d3442344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d667261707065266c6f676f436f6c6f723d7768697465))](#)
+[![Frappe Badge](https://camo.githubusercontent.com/aa1b6ecba6647892584ac793328fb2b2955839508d3620062ab17564ecfd48d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4672617070652d3442344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d667261707065266c6f676f436f6c6f723d7768697465)](#)
 [![ERPNext Badge](https://camo.githubusercontent.com/3bfd62d81a3d5988619b6736459708dd4b9f5e0c82b5f197268fd2e02a5fef6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4552504e6578742d3030373243363f7374796c653d666f722d7468652d6261646765266c6f676f3d6572706e657874266c6f676f436f6c6f723d7768697465)](#) 
 
 <hr/>
