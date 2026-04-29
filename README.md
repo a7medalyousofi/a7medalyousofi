@@ -2,8 +2,7 @@
 <h4 align="center">A passionate Front-end & UI Developer, from Yemen based in Saudi Arabia.<br/> keep cool, stay in touch.</h3>
 
 
-  📝 I’m currently learning **ReactJS** & **NextJS**
-  
+  📝 I’m Front-end & UI Developer  
   👨‍🎓 Studied **Computer Science Engineering**
   
 <hr/>
